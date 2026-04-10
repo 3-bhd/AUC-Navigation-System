@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/input">
+        <file>PlazaEdges.txt</file>
+        <file>PlazaNodes.txt</file>
+    </qresource>
+</RCC>
