@@ -73,16 +73,6 @@ Built as part of a Data Structures course at The American University in Cairo.
 
 ---
 
-## Screenshots
-
-### Shortest path between CP72 and P046
-![Path 1](screenshots/path1.png)
-
-### Shortest path between CP55 and P008
-![Path 2](screenshots/path2.png)
-
----
-
 ## Authors
 
 - **Omar Abdelhady** — [@3-bhd](https://github.com/3-bhd)
